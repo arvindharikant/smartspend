@@ -1,0 +1,5 @@
+{
+  "name": "SpendWise - Expense Tracker",
+  "description": "A comprehensive, client-side expense tracker with charts, daily limits, and CSV export capabilities.",
+  "requestFramePermissions": []
+}
